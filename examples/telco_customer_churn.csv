@@ -1,0 +1,6 @@
+customerID,gender,seniorCitizen,partner,dependents,tenure,phoneService,multipleLines,internetService,onlineSecurity,onlineBackup,contract_type,paperlessBilling,paymentMethod,monthlyCharges,totalCharges,churn
+C1,Female,0,Yes,No,1,Yes,No,DSL,Yes,No,Month-to-month,Yes,Electronic check,29.85,29.85,No
+C2,Male,1,No,No,34,Yes,Yes,Fiber optic,No,Yes,One year,No,Mailed check,56.95,1889.5,No
+C3,Female,0,No,Yes,2,No,No,DSL,No,Yes,Month-to-month,Yes,Bank transfer,53.85,108.15,Yes
+C4,Male,0,Yes,No,45,Yes,No,DSL,Yes,No,Two year,No,Credit card,42.3,1840.75,No
+C5,Female,1,Yes,Yes,5,Yes,Yes,Fiber optic,No,Yes,One year,Yes,Electronic check,70.35,351.45,Yes
